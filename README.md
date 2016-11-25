@@ -1,0 +1,1 @@
+# navigation_to_goal_and_show_picture
